@@ -2,4 +2,4 @@
 
 ### Unit-21  Homework: MERN - Google Books Search 
 
-![Alt Text](./client/public/img/GoogleBookSearch.gif)
+![Alt Text](./client/public/img/Google Book Search.gif)
