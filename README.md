@@ -6,7 +6,7 @@ This is a React-based Google Books Search application.
 
 #### Technologies Used:
 * Node and Express server used
-* Application backed by MongoDb
+* Application backed by Mlab MongoDb
 * Application deployed using Heroku
 * CSS framework and Bootstrap used for styling
 
