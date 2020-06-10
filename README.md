@@ -2,7 +2,7 @@
 
 This is a React-based Google Books Search application. 
 
-![Alt Text](./client/public/img/GoogleBookSearch.gif)
+![Alt Text](./GoogleBookSearch.gif)
 
 #### Technologies Used:
 * Node and Express server used
