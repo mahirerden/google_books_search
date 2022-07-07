@@ -23,7 +23,7 @@
     "bootswatch": "^4.4.1",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.9.7",
     "react": "^16.13.1",
     "react-router-dom": "^5.1.2"
